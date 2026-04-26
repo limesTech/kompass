@@ -30,10 +30,6 @@ aid_per_km_car = 0.10
 aid_per_km_train = 0.15
 
 [links]
-cloud = "https://nextcloud.com"
-dav_360 = "https://dav360.de"
-wiki = "https://wikipedia.org"
-docs = "https://jdav-hd.de/static/docs"
 registration_form = "download-me"
 
 [startpage]
